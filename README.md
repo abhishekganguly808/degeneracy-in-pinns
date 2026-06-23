@@ -9,7 +9,8 @@ This repository contains the implementation and datasets associated with the pap
 
 ## 📌 Overview
 
-Physics-Informed Neural Networks (PINNs) mostly exhibit **highly non-unique weight structures** after training, owing to the underconstrained inverse problem of learning  
+Physics-Informed Neural Networks (PINNs) mostly exhibit **highly non-unique weight structures** after training, owing to the underconstrained inverse problem of learning.
+Compared to traditional numerical methods, these weight matrices contain no low-level structures associated with the PDE in question.
 This project investigates:
 - Correlational properties of trained PINN weights over several independent runs for 3 different problems  
 - A link to **Discrete Dynamical Systems** model for modelling deep neural network learning   
