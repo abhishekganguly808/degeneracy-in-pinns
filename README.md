@@ -24,7 +24,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/abhishekganguly808/degeneracy-in-pinns.git
-cd randomness-in-PINNs
+cd degeneracy-in-pinns
 ```
 
 ## 📂 Structure
