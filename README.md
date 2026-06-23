@@ -29,10 +29,9 @@ cd randomness-in-PINNs
 ## 📂 Structure
 
 - `weights/` → Run-wise saved trained PINN weights (inviscid Burgers / viscous Burgers / Eikonal equation).
-         `weights/PINN_1dburgers_riemann.ipynb`→ PINN code for inviscid Burgers' equation.
-         `weights/PINN_1dburgers_sine.ipynb`→ PINN code for viscid Burgers' equation.
-         `weights/eikonal_PINN.ipynb`→ PINN code for Eikonal equation.
-  
+- `weights/PINN_1dburgers_riemann.ipynb`→ PINN code for inviscid Burgers' equation.
+- `weights/PINN_1dburgers_sine.ipynb`→ PINN code for viscid Burgers' equation.
+- `weights/eikonal_PINN.ipynb`→ PINN code for Eikonal equation.
 - `burgers_chain_riemann.ipynb` → Statistical analysis of trained PINN weights for inviscid Burgers.
 - `burgers_chain_sine.ipynb` → Statistical analysis of trained PINN weights for viscid Burgers.
 - `eikonal_chain.ipynb` → Statistical analysis of trained PINN weights for Eikonal equation.
