@@ -51,6 +51,23 @@ eikonal_chain.ipynb
 ```
 
 ## 📖 Citation
+## J. Chem. Phys. version
+```bash
+@article{10.1063/5.0315971,
+    author = {Ganguly, Abhisek and Ansumali, Santosh and Succi, Sauro},
+    title = {Deep neural networks as discrete dynamical systems: Implications for physics-informed learning},
+    journal = {The Journal of Chemical Physics},
+    volume = {165},
+    number = {1},
+    pages = {014107},
+    year = {2026},
+    month = {07},
+    issn = {0021-9606},
+    doi = {10.1063/5.0315971},
+    url = {https://doi.org/10.1063/5.0315971},
+    eprint = {https://pubs.aip.org/aip/jcp/article-pdf/doi/10.1063/5.0315971/21058717/014107_1_5.0315971.pdf},
+}
+```
 ## arXiv version:
 ```bash
 @misc{ganguly2026deepneuralnetworksdiscrete,
